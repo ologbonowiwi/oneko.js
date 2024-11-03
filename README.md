@@ -7,6 +7,7 @@ The default image is `oneko.gif` in the same directory as the script. This can b
 demo: https://ologbonowiwi.tech
 
 original repo: [adryd325/oneko.js](https://github.com/adryd325/oneko.js)
+
 implemented in a few different places
   - Userscript: https://openuserjs.org/scripts/sjehuda/Oneko_WebMate
   - Vencord: https://vencord.dev/plugins/oneko
